@@ -1,0 +1,25 @@
+{
+  "OOP": [
+    "What is polymorphism?",
+    "Explain encapsulation with example."
+  ],
+  "Collections": [
+    "Difference between ArrayList and LinkedList?",
+    "What is HashMap?"
+  ],
+  "JVM": [
+    "What is JVM and how does it work?"
+  ],
+  "Decorators": [
+    "What is a decorator in Python?"
+  ],
+  "Async": [
+    "What is async and await in Python?"
+  ],
+  "HTML": [
+    "Difference between div and span?"
+  ],
+  "Security": [
+    "What is XSS attack?"
+  ]
+}

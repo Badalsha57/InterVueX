@@ -1,0 +1,17 @@
+{
+  "Java Developer": {
+    "topics": ["OOP", "Collections", "JVM"],
+    "difficulty": "Hard",
+    "time_limit": 30
+  },
+  "Python Developer": {
+    "topics": ["OOP", "Decorators", "Async"],
+    "difficulty": "Medium",
+    "time_limit": 60
+  },
+  "Web Developer": {
+    "topics": ["HTML", "CSS", "JavaScript", "Security"],
+    "difficulty": "Medium",
+    "time_limit": 45
+  }
+}

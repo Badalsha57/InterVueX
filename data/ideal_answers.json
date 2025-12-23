@@ -1,0 +1,5 @@
+{
+  "What is polymorphism?": "Polymorphism allows objects of different types to be treated as instances of the same class through method overriding.",
+  "Explain encapsulation with example.": "Encapsulation is the concept of wrapping data and methods together and restricting direct access using access modifiers.",
+  "What is a decorator in Python?": "A decorator is a function that modifies another function's behavior without changing its source code."
+}
