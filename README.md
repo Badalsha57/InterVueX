@@ -65,7 +65,7 @@ InterVueX/
 ##  Installation & Run
 
 ### 1️⃣ Clone Repository
-git clone https://github.com/YOUR_USERNAME/InterVueX.git
+git clone https://github.com/Badalsha57/InterVueX.git
 cd InterVueX
 
 ### 2️⃣ Install Dependencies
@@ -99,8 +99,8 @@ python -m streamlit run frontend/app.py
 Badal Kumar Sharma  
 B.Tech CSE Student | AI & Web Development  
 
-GitHub: https://github.com/YOUR_USERNAME  
-Email: your-email@gmail.com
+GitHub: [https://github.com/Badalsha57](https://github.com/)  
+Email: badalsha5757@gmail.com
 
 ---
 
